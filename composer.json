@@ -20,7 +20,7 @@
     "issues": "https://github.com/ruanglabs/apirajaongkir/issues"
   },
   "links": {
-    "info": "https://github.com/ruanglabs/apirajaongkir"
+    "info": "https://github.com/ruanglabs/library-apirajaongkir"
   },
   "require": {
     "php": ">=5.6.0",
