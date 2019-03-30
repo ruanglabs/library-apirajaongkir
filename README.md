@@ -44,8 +44,7 @@ Library GridView Menggunakan Library [Kartik][3]
   
   require 'D:\xampp\htdocs\ngoprektoko\vendor\autoload.php';
   
-  use ramadhan\LazadaClient;
-  use Steevenz\Rajaongkir;
+  use Ruanglabs\Rajaongkir;
   use yii\data\ArrayDataProvider;
   use yii\web\Controller;
   
