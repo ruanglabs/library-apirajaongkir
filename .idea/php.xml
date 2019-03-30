@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/o2system/kernel" />
+      <path value="$PROJECT_DIR$/vendor/o2system/curl" />
+      <path value="$PROJECT_DIR$/vendor/o2system/spl" />
+      <path value="$PROJECT_DIR$/vendor/o2system/psr" />
+      <path value="$PROJECT_DIR$/vendor/o2system/gear" />
+    </include_path>
+  </component>
+</project>
